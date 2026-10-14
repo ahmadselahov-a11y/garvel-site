@@ -1,0 +1,586 @@
+[
+  {
+    "id": 1,
+    "name": "Парта ученическая одноместная",
+    "prompt": "Use case: product-mockup. GARVEL catalog item 01: Парта ученическая одноместная — a single pupil school desk, one compact rectangular light oak laminate desktop, graphite steel frame with two side leg assemblies, modesty panel and bag hook. Only the desk, no chair. Photorealistic conceptual product visualization, quiet luxury style. Warm off-white seamless studio backdrop and floor, soft diffuse daylight, realistic natural materials and contact shadows, three-quarter view, full object visible centered with 12% margin, landscape 3:2 framing. No lettering, logos, watermark, people, room decoration, collage or additional products. Precise functional school furniture proportions.",
+    "image": "assets/visualizations/item-01.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 2,
+    "name": "Парта ученическая двухместная",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 02, \"Парта ученическая двухместная\". Subject: two-pupil school desk, extra wide rectangular oak top, two seating bays, steel legs, no chairs. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-02.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 3,
+    "name": "Стол ученический регулируемый",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 03, \"Стол ученический регулируемый\". Subject: height adjustable pupil desk, telescopic metal legs with clearly visible adjustment holes and bolts. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-03.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 4,
+    "name": "Стул ученический регулируемый",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 04, \"Стул ученический регулируемый\". Subject: height adjustable school chair, moulded beech plywood seat and back, telescopic steel legs with adjustment holes. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-04.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 5,
+    "name": "Стол преподавателя",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 05, \"Стол преподавателя\". Subject: teacher desk, oak top, modesty panel and built-in side drawers, no chair. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-05.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 6,
+    "name": "Стул преподавателя",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 06, \"Стул преподавателя\". Subject: teacher chair, restrained upholstered charcoal seat and back, four fixed metal legs, no casters. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-06.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 7,
+    "name": "Стол компьютерный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 07, \"Стол компьютерный\". Subject: computer desk with keyboard sliding tray and dedicated tower compartment, no electronics. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-07.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 8,
+    "name": "Стол лабораторный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 08, \"Стол лабораторный\". Subject: laboratory workbench with chemically resistant white worktop, built-in small sink and tap, storage base. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-08.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 9,
+    "name": "Шкаф для учебных пособий",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 09, \"Шкаф для учебных пособий\". Subject: tall school teaching-aids cabinet, upper glass doors with anatomical model and geometric learning blocks, solid lower doors. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-09.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 10,
+    "name": "Шкаф для документов",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 10, \"Шкаф для документов\". Subject: school documents cabinet, two full-height solid oak doors, compact understated design. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-10.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 11,
+    "name": "Стеллаж библиотечный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 11, \"Стеллаж библиотечный\". Subject: school library bookshelf, double-sided low oak shelving holding books with blank spines. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-11.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 12,
+    "name": "Кафедра и трибуна",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 12, \"Кафедра и трибуна\". Subject: wooden lectern podium with sloping reading surface and modesty front panel. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-12.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 13,
+    "name": "Стол детский прямоугольный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 13, \"Стол детский прямоугольный\". Subject: preschool rectangular child-height table, rounded corners, four short wood legs, no chairs. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-13.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 14,
+    "name": "Стол детский круглый",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 14, \"Стол детский круглый\". Subject: preschool circular child-height table with four short wood legs, no chairs. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-14.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 15,
+    "name": "Стул детский",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 15, \"Стул детский\". Subject: small preschool chair, rounded birch plywood back and seat, short stable legs. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-15.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 16,
+    "name": "Кровать детская одноярусная",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 16, \"Кровать детская одноярусная\". Subject: single-tier child bed, low birch wood frame, one mattress, low end boards and side guard. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-16.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 17,
+    "name": "Кровать детская выдвижная",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 17, \"Кровать детская выдвижная\". Subject: preschool pull-out bed, three nested beds on casters, partially extended at three levels, three mattresses. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-17.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 18,
+    "name": "Шкаф для детской одежды",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 18, \"Шкаф для детской одежды\". Subject: preschool clothes cabinet, five narrow child-height individual door compartments with tiny pictogram-free cubbies. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-18.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 19,
+    "name": "Шкаф для игрушек",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 19, \"Шкаф для игрушек\". Subject: preschool toy storage cabinet, low oak unit with door cupboards and open bins containing simple wooden toys. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-19.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 20,
+    "name": "Стеллаж игровой",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 20, \"Стеллаж игровой\". Subject: playroom shelf unit, low house-shaped birch shelving with varied open compartments and wooden blocks. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-20.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 21,
+    "name": "Скамья для переодевания",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 21, \"Скамья для переодевания\". Subject: preschool changing bench, child-height solid beech slats with open shoe shelf underneath. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-21.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 22,
+    "name": "Шкаф для постельных принадлежностей",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 22, \"Шкаф для постельных принадлежностей\". Subject: preschool linen cabinet with several deep shelves holding neatly folded bedding, one open door. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-22.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 23,
+    "name": "Стол воспитателя",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 23, \"Стол воспитателя\". Subject: preschool educator desk, compact oak desk with drawers and soft rounded corners. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-23.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 24,
+    "name": "Шкаф хозяйственный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 24, \"Шкаф хозяйственный\". Subject: utility storage cabinet, tall ventilated cupboard with shelves on one side and upright broom compartment on other, door open. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-24.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 25,
+    "name": "Шкаф для раздевалки односекционный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 25, \"Шкаф для раздевалки односекционный\". Subject: one-section sports locker, one tall graphite metal door, air vents and handle. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-25.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 26,
+    "name": "Шкаф для раздевалки двухсекционный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 26, \"Шкаф для раздевалки двухсекционный\". Subject: two-section sports locker, exactly two tall graphite doors side by side, separate locks and vents. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-26.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 27,
+    "name": "Шкаф индивидуальный с замком",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 27, \"Шкаф индивидуальный с замком\". Subject: individual secure storage locker, a compact standalone square locker cabinet with visible key lock. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-27.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 28,
+    "name": "Скамья для раздевалки",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 28, \"Скамья для раздевалки\". Subject: sports changing room bench, long oak slat seat and graphite steel legs, no backrest. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-28.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 29,
+    "name": "Скамья с вешалкой",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 29, \"Скамья с вешалкой\". Subject: changing bench with coat rack, slatted seat, upright metal frame, overhead hooks and upper shelf. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-29.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 30,
+    "name": "Шкаф для спортивного инвентаря",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 30, \"Шкаф для спортивного инвентаря\". Subject: sports equipment cabinet, tall cupboard with open door showing basketballs and exercise mats, no logos. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-30.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 31,
+    "name": "Гардеробная система",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 31, \"Гардеробная система\". Subject: open sports wardrobe system, modular frame with hanging rail, hooks, shelves and bench. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-31.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 32,
+    "name": "Стеллаж для инвентаря",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 32, \"Стеллаж для инвентаря\". Subject: sports equipment shelving, sturdy graphite rack with balls, rolled mats and dumbbells organized on shelves. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-32.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 33,
+    "name": "Стол тренера",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 33, \"Стол тренера\". Subject: coach desk, compact graphite frame and oak desktop, single lockable drawer. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-33.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 34,
+    "name": "Шкаф для тренерской",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 34, \"Шкаф для тренерской\". Subject: coach office cabinet, two-toned oak and graphite tall doors plus one open shelf for plain binders. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-34.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 35,
+    "name": "Мебель для судейской",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 35, \"Мебель для судейской\". Subject: referee room furniture ensemble, compact worktable, two simple chairs and a low cabinet, no other furniture. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-35.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 36,
+    "name": "Тумба для хранения",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 36, \"Тумба для хранения\". Subject: sports storage pedestal cabinet, low graphite unit with two lockable doors. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-36.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 37,
+    "name": "Стол письменный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 37, \"Стол письменный\". Subject: office writing desk, minimal oak rectangular top with slim graphite legs, no drawers or chair. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-37.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 38,
+    "name": "Стол руководителя",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 38, \"Стол руководителя\". Subject: executive office desk, broad walnut top, sculptural solid side supports and side credenza. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-38.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 39,
+    "name": "Стол рабочий угловой",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 39, \"Стол рабочий угловой\". Subject: L-shaped corner office desk, oak surface and graphite supports, full L shape clearly visible. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-39.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 40,
+    "name": "Рабочая станция",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 40, \"Рабочая станция\". Subject: four-person office workstation, four desks arranged as one island with low fabric dividers, no chairs. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-40.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 41,
+    "name": "Стол для переговоров",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 41, \"Стол для переговоров\". Subject: oval office conference table, walnut top on two sculptural bases, table only. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-41.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 42,
+    "name": "Тумба мобильная",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 42, \"Тумба мобильная\". Subject: mobile office pedestal with three drawers and four clearly visible small casters. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-42.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 43,
+    "name": "Тумба приставная",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 43, \"Тумба приставная\". Subject: fixed side office pedestal, two drawers and one cupboard, no wheels, flush work-height oak top. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-43.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 44,
+    "name": "Шкаф для документов",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 44, \"Шкаф для документов\". Subject: office document cabinet, low wide walnut unit with upper glass doors and solid lower doors, plain binders. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-44.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 45,
+    "name": "Шкаф архивный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 45, \"Шкаф архивный\". Subject: archive cabinet, tall gray steel double-door storage with rows of plain folders, one door ajar. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-45.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 46,
+    "name": "Стеллаж офисный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 46, \"Стеллаж офисный\". Subject: office open shelving, asymmetrical walnut cubbies and thin dark metal frame, no books. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-46.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 47,
+    "name": "Стойка ресепшен",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 47, \"Стойка ресепшен\". Subject: large office reception desk, L-shaped walnut base with light stone elevated visitor counter, no signage. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-47.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 48,
+    "name": "Кресло офисное",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 48, \"Кресло офисное\". Subject: ergonomic swivel office armchair, graphite mesh back, upholstered seat, adjustable arms, five-star castered base. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-48.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 49,
+    "name": "Стул посетителя",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 49, \"Стул посетителя\". Subject: office visitor chair, taupe upholstered seat and back, cantilever metal base, no wheels. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-49.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 50,
+    "name": "Скамья для зоны ожидания",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 50, \"Скамья для зоны ожидания\". Subject: public waiting bench, three individual seats connected on graphite beam, oak seat shells, no upholstery. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-50.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 51,
+    "name": "Стул для посетителей",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 51, \"Стул для посетителей\". Subject: public visitor chair, simple gray upholstery, four oak legs, rounded backrest, distinct from cantilever office chair. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-51.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 52,
+    "name": "Модульная мебель для холла",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 52, \"Модульная мебель для холла\". Subject: modular lobby seating, three rounded taupe upholstered modules including a corner module and a low oak table. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-52.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 53,
+    "name": "Стойка администратора",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 53, \"Стойка администратора\". Subject: compact public administrator reception counter, straight front, pale oak and warm ivory, accessible lowered side. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-53.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 54,
+    "name": "Гардеробный шкаф",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 54, \"Гардеробный шкаф\". Subject: public wardrobe cupboard, tall oak double doors, partially open to show clothes rail and upper shelf. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-54.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 55,
+    "name": "Шкаф для хранения",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 55, \"Шкаф для хранения\". Subject: public storage cabinet, wide medium-height oak unit with four doors and durable laminate top. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-55.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 56,
+    "name": "Стеллаж библиотечный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 56, \"Стеллаж библиотечный\". Subject: public library shelving, tall three-bay walnut bookcase with lower cupboards and ordered books, plain spines. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-56.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 57,
+    "name": "Стол читательский",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 57, \"Стол читательский\". Subject: library reading table, long oak table with integrated central divider and slim individual reading lamps. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-57.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 58,
+    "name": "Стол для столовой",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 58, \"Стол для столовой\". Subject: canteen dining table, durable ivory laminate rectangular top, chrome frame, no chairs. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-58.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 59,
+    "name": "Стул для столовой",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 59, \"Стул для столовой\". Subject: canteen chair, stackable warm gray polypropylene seat and back, slim metal four legs. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-59.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 60,
+    "name": "Мебель для актового зала",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 60, \"Мебель для актового зала\". Subject: assembly hall furniture set, two neat rows of four linked upholstered theater seats in muted taupe on dark supports. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-60.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 61,
+    "name": "Мебель для административных помещений",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 61, \"Мебель для административных помещений\". Subject: administrative office set, compact desk, two-door cabinet and two simple chairs in pale oak and charcoal. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-61.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 62,
+    "name": "Шкаф встроенный по размерам",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 62, \"Шкаф встроенный по размерам\". Subject: built-in custom wardrobe, full-height oak cabinetry fitted precisely into a shallow plaster niche, one open door. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-62.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 63,
+    "name": "Гардеробная система на заказ",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 63, \"Гардеробная система на заказ\". Subject: custom walk-in wardrobe system, open walnut hanging bays with clothes rail, drawers and illuminated shelves, no clothes. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-63.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 64,
+    "name": "Стеллаж нестандартный",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 64, \"Стеллаж нестандартный\". Subject: nonstandard shelving, stepped oak shelves designed under a sloping ceiling, clearly varied heights. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-64.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 65,
+    "name": "Столешница по проекту",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 65, \"Столешница по проекту\". Subject: custom countertop only, long solid oak slab with rounded edge and sink cutout, mounted on subtle temporary supports. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-65.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 66,
+    "name": "Стеновая декоративная панель",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 66, \"Стеновая декоративная панель\". Subject: decorative wall panel, single broad oak panel with rhythmic vertical carved fluting, slight side angle. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-66.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 67,
+    "name": "Мебельная перегородка",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 67, \"Мебельная перегородка\". Subject: furniture room divider, freestanding tall open oak slat partition with integrated lower storage and open shelves. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-67.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 68,
+    "name": "Тумба встроенная",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 68, \"Тумба встроенная\". Subject: built-in low pedestal, walnut drawers fitted flush inside a plaster alcove. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-68.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 69,
+    "name": "Мебель для ниш и сложных помещений",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 69, \"Мебель для ниш и сложных помещений\". Subject: custom furniture for awkward niche, oak storage and desk fitted under a sloping ceiling in narrow alcove. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-69.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 70,
+    "name": "Облицовочные панели",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 70, \"Облицовочные панели\". Subject: cladding panels, three broad flat walnut wall panels mounted side-by-side with fine shadow-gap joints. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-70.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 71,
+    "name": "Индивидуальный шкаф хранения",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 71, \"Индивидуальный шкаф хранения\". Subject: custom storage wardrobe, asymmetric pale oak doors with one open display column and interior shelves. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-71.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 72,
+    "name": "Мебель по чертежам заказчика",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 72, \"Мебель по чертежам заказчика\". Subject: bespoke furniture example, unusual curved walnut desk with offset drawer cabinet, based on a tailored design, no drawings. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-72.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  },
+  {
+    "id": 73,
+    "name": "Комплект мебели по техническому заданию",
+    "prompt": "Use case: product-mockup. Asset: GARVEL catalog item 73, \"Комплект мебели по техническому заданию\". Subject: custom project furniture ensemble, matching oak desk, storage cupboard, low credenza and chair, one coordinated set. Photorealistic conceptual product visualization, quiet luxury furniture aesthetic, believable practical construction and accurate functional proportions. Warm off-white seamless studio floor and background; custom built-in pieces may use only a minimal off-white niche to show fitting. Soft diffuse daylight, detailed natural wood and metal textures, physically credible contact shadows. Landscape 3:2 composition, three-quarter perspective, full product visible with 12 percent margin, object dominates frame. No logos, lettering, watermark, people, illustration, collage or decorative props. Do not add chairs or unrelated furniture unless the subject explicitly calls for a set. Distinguish the specific subject clearly.",
+    "image": "assets/visualizations/item-73.webp",
+    "type": "conceptual_visualization",
+    "tool": "built-in image_gen"
+  }
+]
